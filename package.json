@@ -18,7 +18,7 @@
   "scripts": {
     "start": "npx resume-cli serve",
     "export_pdf": "npx resume-cli export resume.pdf",
-    "export_html": "npx resume-cli export resume.html"
+    "build": "npx resume-cli export --theme kendall index.html"
   },
   "author": "Vincent Boulin",
   "license": "ISC",
