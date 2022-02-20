@@ -1,0 +1,106 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Vincent Boulin",
+      "label": "Ingénieur développeur FullStack",
+      "image": "",
+      "email": "vincent.boulin@mail.com",
+      "phone": "06.xx.xx.xx.xx",
+      "url": "https://portfolio.vincentboulin.fr",
+      "summary": "Ingénieur logiciel full stack\nPrincipalement JavaScript (Front et Back) : Angular, React, VueJS, NodeJS / Express, jQuery...\nC# / .Net / Entity Framework, Java / Spring Hibernate, Kotlin\nContinuous Integration / Continuous Delivery : Jenkins, SonarQube, Grunt, Gitlab-ci",
+      "location": {
+        "countryCode": "FR",
+        "address": "France"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Vincent Boulin",
+          "url": "https://www.linkedin.com/in/vincent-boulin/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "LIKSI",
+        "position": "Développeur Full Stack",
+        "startDate": "2020-05-31",
+        "endDate": "",
+        "highlights": [],
+        "summary": null,
+        "url": "https://www.linkedin.com/company/11376200",
+        "location": "Rennes, Bretagne, France"
+      },
+      {
+        "name": "Hoppen",
+        "position": "Développeur Full Stack",
+        "startDate": "2018-09-30",
+        "endDate": "2020-04-30",
+        "highlights": [],
+        "summary": "Développement sur une solution à destination d'objet connecté :\n- Mise en place d'une PKI à l'aide de vault\n- Développement NodeJS\n- Développement Front-End (React)\n- Orchestration autour d'un broker MQTT\n\nDéveloppement d'un espace patient :\n- Développement Front-End (React)\n- Mise en place d'un serveur Keycloak\n- Mise en place d'un serveur LDAP",
+        "url": "https://www.linkedin.com/company/2048938",
+        "location": "Rennes, Bretagne, France"
+      },
+      {
+        "name": "Sopra Steria",
+        "position": "Ingénieur architecte en informatique",
+        "startDate": "2017-01-31",
+        "endDate": "2018-09-30",
+        "highlights": [],
+        "summary": "Au sein d'un projet pour un client grand compte télécom, j'ai pris position en temps qu'Architecte de ce projet afin d'apporter mon expertise technique sur les différents sujets répondant au besoin du client :\n    - Etude d'architecture et veille technologique de nouvelles applications / évolutions applicatives\n    - Accompagnement des nouveaux entrants dans l'équipe\n    - Support technique à l'équipe\n    - Gestion du parc environnements du projet (VMWare)\n    - Mise en place et maintien de l'intégration continue du projet (Grunt / Jenkins / Nexus / RunDeck / SonarQube).\n    - Développement (JavaScript / CSS / C# / .Net / Java)\n\nJe participe également à un projet interne de R&D en temps que support technique sur divers sujets :\n    - Industrialisation\n    - Réalité Augmentée\n    - Virtualisation\n    - BlockChain",
+        "url": "https://www.linkedin.com/company/3054",
+        "location": "Région de Rennes, France"
+      },
+      {
+        "name": "Sopra Steria",
+        "position": "Ingénieur en informatique",
+        "startDate": "2012-07-31",
+        "endDate": "2016-12-31",
+        "highlights": [],
+        "summary": "Au sein d'un projet pour un grand compte du marché télécom, j'ai participé pendant 4 ans à la création / évolution d'un portail Web composé de diverses technologies (C# / .Net / Java / Play Framework / JavaScript / Angular (1 et 2) / Oracle Sql).\nPrincipalement porté sur des tâches de développement j'ai également participé au maintien et l'évolution de l'infrastructure du projet (Gestion machine virtuelle vmware) ainsi que l'industrialisation du projet (intégration continue, etc...).",
+        "url": "https://www.linkedin.com/company/3054",
+        "location": null
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "École Nationale d'Ingénieurs de Brest (ENIB)",
+        "area": "Informatique",
+        "studyType": "Diplôme d'ingénieur",
+        "startDate": "2007-12-31",
+        "endDate": "2012-12-31",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Frontend",
+            "level": "Senior",
+            "keywords": [
+                "React",
+                "Angular",
+                "Svelte",
+                "VueJs"
+            ]
+        }
+    ],
+    "languages": [
+      {
+        "language": "fr",
+        "fluency": "Native Speaker"
+      }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [],
+    "meta": {
+      "version": "v1.0.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+      "theme": "kendall"
+    }
+  }

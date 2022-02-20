@@ -1,0 +1,29 @@
+{
+  "name": "vincent-boulin",
+  "version": "1.0.0",
+  "description": "This is the resume of Vincent Boulin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent-boulin/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "devDependencies": {
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-kendall": "^0.2.0",
+    "resume-cli": "^3.0.6"
+  },
+  "scripts": {
+    "start": "npx resume-cli serve",
+    "export_pdf": "npx resume-cli export resume.pdf",
+    "export_html": "npx resume-cli export resume.html"
+  },
+  "author": "Vincent Boulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincent-boulin/resume/issues"
+  },
+  "homepage": "https://github.com/vincent-boulin/resume#readme"
+}
